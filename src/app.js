@@ -1,4 +1,7 @@
 console.long("Hola mundo");
-const nombre = "Pedro Daniel";
-console.log('Hola$(nombre)');
-//agregando
+
+var a=1;
+var b=2;
+console.log(a+b);
+
+console.log('Adios Mundo');
